@@ -12,3 +12,17 @@ Below is the example output of the project
 2. Run `docker-compose up` 
 
 This should spin up the containers and you should see the output shown above
+
+## References
+
+<div align="center">
+    <ul>
+        <li>
+            <p>YouTube Video</p>
+            <p>Python - Redis - PUBSUB feature and server management</p>
+            <a href="https://www.youtube.com/watch?v=mTHGyzzHQ5I">
+                <img alt="Thumbnail Image" src="https://user-images.githubusercontent.com/75044812/166108316-fb982043-1ba3-4696-83bf-5cfde5bc3c97.png" width=200 border="5 solid black">
+            </a>
+        </li>
+    </ul>
+</div>
